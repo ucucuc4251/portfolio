@@ -29,8 +29,7 @@
 　[このアプリを公開しているGooglePlayへのリンク](https://play.google.com/store/apps/details?id=com.tankakigou.nazoUFO)
    
 　Unityで制作したクレーンキャッチャーゲームです。一プレイは５分に一度までの制限をかけ、広告を見ることで5分以内でもプレイできるような仕組みになっています。  
-　現在はGooglePlayにて公開しています
-  [ほかにもGooglePlayにはゲームを公開しています。](https://play.google.com/store/apps/developer?id=%E5%8D%98%E4%BE%A1%E8%A8%98%E5%8F%B7)
+　現在はGooglePlayにて公開しており、[ほかにもGooglePlayには様々なゲームを公開中です。](https://play.google.com/store/apps/developer?id=%E5%8D%98%E4%BE%A1%E8%A8%98%E5%8F%B7)
  
   
   
@@ -45,7 +44,7 @@
   
   
 ## 小説Editer「小説執筆ツール」
-<img src="SE_img.PNG" width="750px">   
+<img src="SE_img.png" width="750px">   
 
   
 　[このアプリを公開している先へのリンク](https://drive.google.com/open?id=1sUWuAolxUm3BjYY5BASz6R-Sisg_c35t)  
