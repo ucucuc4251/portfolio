@@ -1,21 +1,3 @@
-# 自己紹介
-　何かを作ることが趣味な大学生。  
-　作っているものはゲームが多め。  
-　ゲーム製作ツールは「メイドイン俺」->「プチコン」->「DXライブラリ」->「Unity」の順に使用してきた。  
-  
-  
-# 使える言語
-### 調べながら使えるもの
-- C
-- C++
-- C#
-- Java
-- JavaScript
-- Node.js 
-- Python
-  
-  
-  
 # 制作した作品
   
 ## SUS-Literary「文芸部WEBサイト」
@@ -47,7 +29,9 @@
 　[このアプリを公開しているGooglePlayへのリンク](https://play.google.com/store/apps/details?id=com.tankakigou.nazoUFO)
    
 　Unityで制作したクレーンキャッチャーゲームです。一プレイは５分に一度までの制限をかけ、広告を見ることで5分以内でもプレイできるような仕組みになっています。  
-　現在はGooglePlayにて公開しています  
+　現在はGooglePlayにて公開しています
+  [ほかにもGooglePlayにはゲームを公開しています。](https://play.google.com/store/apps/developer?id=%E5%8D%98%E4%BE%A1%E8%A8%98%E5%8F%B7)
+ 
   
   
 ## NETank「オンライン対戦ができる戦車ゲーム」
@@ -58,3 +42,14 @@
   
 　unityで制作した戦車ゲームです。Photonを用いてオンライン対戦をすることが出来ます。  
 　現在はUnityRoomにて公開しています。  
+  
+  
+## 小説Editer「小説執筆ツール」
+<img src="SE_img.PNG" width="750px">   
+
+  
+　[このアプリを公開している先へのリンク](https://drive.google.com/open?id=1sUWuAolxUm3BjYY5BASz6R-Sisg_c35t)  
+  
+　Electronを利用して製作しました。便利な機能として、指定した文字があるときエンターキーを押すと、別の文字を挿入させたり、逆に削除する機能、エンターショートカット機能があります
+ 
+
